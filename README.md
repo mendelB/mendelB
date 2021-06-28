@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mendelB
-- 💻 I'm a Software Engineer @DoSomething
+- 💻 I'm a Software Engineer [@DoSomething](https://github.com/DoSomething)
 
 <!---
 mendelB/mendelB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
