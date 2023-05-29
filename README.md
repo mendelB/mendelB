@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mendel
 - 💻 I'm a Software Engineer
-- 🚀 I'm the co-founder and CTO of [ChatForm](https://chatform.com) ("A better form of customer engagement")
+- 🚀 I'm the co-founder and CTO of [ChatForm](https://chatform.com)
 
 <!---
 mendelB/mendelB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
